@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">img_checkbox_app</string>
+    <string name="txt1">請選擇你喜歡的明星</string>
+    <string name="content_description"> </string>
+    <string name="ckb1">mina</string>
+    <string name="ckb2">momo</string>
+    <string name="ckb3">sana</string>
+    <string name="ckb4">tzuyu</string>
+    <string name="sent">送出</string>
+    <string name="like">我喜歡的明星是：</string>
+    <string name="btnOK">OK</string>
+</resources>
